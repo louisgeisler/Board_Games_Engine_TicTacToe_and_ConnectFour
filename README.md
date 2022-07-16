@@ -11,6 +11,8 @@ Board Game Engine regroups games such as Tic-Tac-Toe and Connect-Four.
 It implements AI to play with (Min-Max, MonteCarlo, and random moves).
 Its project is before all a pedagogical project to show the best practices to adopte when coding.
 
+Feel free to update and fork the project :-)
+
 ## Installation
 
 
