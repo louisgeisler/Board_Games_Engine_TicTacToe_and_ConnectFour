@@ -60,13 +60,13 @@ def Partie(Partie,*lJoueur):
     Winner: {winner}
     """))
 
-
-if __name__ == "__main__":
-
+def main():
+    
     # Choice of game to play
     print("Games available:")
     for i,jeu in enumerate(GAMES):
         print(f"    {i})",jeu.__name__)
+    
     Jeu=GAMES[int(input(f"Which game do you want to play? (number) "))]
 
     # The type of player for the game
@@ -80,3 +80,8 @@ if __name__ == "__main__":
     print("-"*30)
     
     Partie(Jeu(),*lJ)
+
+
+if __name__ == "__main__":
+
+    main()
