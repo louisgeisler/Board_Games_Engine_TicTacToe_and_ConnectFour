@@ -13,10 +13,20 @@ Its project is before all a pedagogical project to show the best practices to ad
 
 Feel free to update and fork the project :-)
 
-## Installation
+## ToDo:
 
+- [ ] Rename variable in english and enforce PEP 8 code style
+- [ ] Add GUI support: Work In Progress
+- [ ] Add Requierements.txt
+- [ ] Convert it as python package
+
+## GUI Description
+
+The GUI will be build with the [eel python package](https://github.com/ChrisKnott/Eel) with which we can build a beautifull cross-pateform HTML5 interface.
+
+You can even try it directly for a to players connect-4 game: [Try Demo](games\connect_four\web\board.html)
 
 ## Authors
 
- - Louis Geisler (Main Developer)
- - Emile Duquennoy (Co-developer)
+ - [Louis Geisler (Main Developer)](https://github.com/louisgeisler)
+ - [Emile Duquennoy (Co-developer)](https://github.com/EmileDqy)
