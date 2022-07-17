@@ -24,7 +24,7 @@ Feel free to update and fork the project :-)
 
 The GUI will be build with the [eel python package](https://github.com/ChrisKnott/Eel) with which we can build a beautifull cross-pateform HTML5 interface.
 
-You can even try it directly for a to players connect-4 game: [Try Demo](games\connect_four\web\board.html)
+You can even try it directly for a to players connect-4 game: [Try Demo](https://louisgeisler.github.io/Board_Games_Engine_TicTacToe_and_ConnectFour/)
 
 ## Authors
 
